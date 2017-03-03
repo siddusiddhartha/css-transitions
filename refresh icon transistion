@@ -9,7 +9,7 @@ $( document ).ready( function() {
         // setTimeout is to indicate some async operation
         window.setTimeout( function() {
         	$icon.removeClass( animateClass );
-        }, 1000 );
+        }, 4000 );
     });    
 });
 
